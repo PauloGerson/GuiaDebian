@@ -69,16 +69,36 @@
   <img src="virtual13.png">
   <br><br>
 
-   <p>16 - Escolha a opção de "Partições /home,/var e /tmp..", por se tratar de um hambiente de teste.</p>
-  <img src="virtual14.png">
+   <p>16 - Escolha a opção de "Todos os arquivos..", por se tratar de um hambiente de teste.</p>
+  <img src="virtual21.png">
   <br><br>
 
   <p>17 - Sera apresentado uma tela para fazer algumas configurações de particionamento. Clique na opção "Finalizar o particionamento...".</p>
   <img src="virtual15.png">
   <br><br>
 
-  <p>18 - Logo após se estiver tudo certo confirme marcando a opção "sim".</p>
-  <img src="virtual16.png">
+  <p>18 - Confirme marcando a opção "Não".</p>
+  <img src="virtual17.png">
+  <br><br>
+
+  <p>19 - Confirme marcando a opção "debina.c3sl.ufpr.br"</p>
+  <img src="virtual18.png">
+  <br><br>
+
+  <p>20 - Confirme marcando a opção "Sim".</p>
+  <img src="virtual19.png">
+  <br><br>
+
+  <p>20 - Após tudo isso clique em confirmar.</p>
+  <img src="virtual22.png">
+  <br><br>
+
+  <p>21 - Escolha a opção Debian GNU/Linux e logo após aparecerá a opção de login.</p>
+  <img src="virtual23.png">
+  <br><br>
+
+  <p>22 - Depois de feito o Login que foi definido, e só começar a usar o seu Linux Debian.</p>
+  <img src="virtual24.png">
   <br><br>
 
 
