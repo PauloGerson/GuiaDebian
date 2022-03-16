@@ -49,7 +49,12 @@
   <img src="virtual9.1.png">
   <br><br>
 
-  <p>11.1 - Após adicionando, ira aparecer esse menu em sua tela.  A partir dai você ira escolher o tipo de instalação. No nosso caso iremos instalar o com interface grafica, ou seja a "Graphical Debian".</p>
+  <p> 11.2 - Em Rede, marque a opção “Habilitar placa de Rede”, NAT do adaptador 1;
+•Em adaptador 2, marque a opção “Habilitar Placa de Rede” e clica em OK.. </p>
+  <img src="rede1.png">
+  <br><br>
+
+  <p>11.3 - Após adicionando, ira aparecer esse menu em sua tela.  A partir dai você ira escolher o tipo de instalação. No nosso caso iremos instalar o com interface grafica, ou seja a "Graphical Debian".</p>
   <img src="2021-08-24 19_55_01-Window.png">
   <br><br>
 
@@ -57,49 +62,64 @@
   <img src="virtual10.png">
   <br><br>
 
-  <p>13 - Escolha um nome qualquer para sua maquina. Caso você não tenha conhecimento sobre o que fazer na tela seguinte e não quiser também colocar uma senha, você poderá pular, que é o que eu fiz.</p>
+   <p>13 - Se a opção abaixo não estiver selecionada você deve voltar nas configurações
+de sua rede e verificar se a opção NAT está ativada;</p>
+  <img src="rede2.png">
+  <br><br>
+
+  <p>13.1 - Escolha um nome qualquer para sua maquina. Caso você não tenha conhecimento sobre o que fazer na tela seguinte e não quiser também colocar uma senha, você poderá pular, que é o que eu fiz.</p>
   <img src="virtual11.png">
   <br><br>
+
+  
 
   <p>14 - Escolha um nome de usuario</p>
   <img src="virtual12.png">
   <br><br>
 
-   <p>15 - Use a opção de "Usar o disco inteiro", para uma instalação mais simplificada.</p>
+   <p>15 - Use a opção de "Usar o disco inteiro e configurar LVM", para uma instalação mais simplificada.</p>
   <img src="virtual13.png">
   <br><br>
 
-   <p>16 - Escolha a opção de "Todos os arquivos..", por se tratar de um hambiente de teste.</p>
+   <p>16 - Escolha a opção de "Partição /home separada", por se tratar de um hambiente de teste.</p>
   <img src="virtual21.png">
   <br><br>
 
-  <p>17 - Sera apresentado uma tela para fazer algumas configurações de particionamento. Clique na opção "Finalizar o particionamento...".</p>
-  <img src="virtual15.png">
+  <p>17 - Aperte em continuar</p>
+  <img src="memoria1.png">
   <br><br>
 
-  <p>18 - Confirme marcando a opção "Não".</p>
-  <img src="virtual17.png">
+  <p>18 - Sera apresentado uma tela para fazer algumas configurações de particionamento. Clique na opção "Sim" e "Finalizar o particionamento...".</p>
+  <img src="memoria2.png">
   <br><br>
 
-  <p>19 - Confirme marcando a opção "debina.c3sl.ufpr.br"</p>
+  <p>19 - Ler outro CD ou DVD? Não;</p>
+  <img src="pacote2.png">
+  <br><br>
+
+  <p>20 - Gerenciador de pacotes: Brasil, Continuar;</p>
+  <img src="pacote3.png">
+  <br><br>
+
+
+  <p>21 - Confirme marcando a opção "debian.deb.org ou deb.debian.org"</p>
   <img src="virtual18.png">
   <br><br>
 
-  <p>20 - Confirme marcando a opção "Sim".</p>
-  <img src="virtual19.png">
-  <br><br>
+<p>22 - Informações sobre proxy HTTP: Deixa em branco, Continuar;</p> <br><br>
+<p>23 - Caso o gerenciador de pacotes apresente um erro, escolha a opção: continuar
+sem um espelho de rede, Continuar;</p> <br><br>
+<p>24- Participar do concurso de utilização de pacotes? Não, Continuar;</p> <br><br>
 
-  <p>20 - Após tudo isso clique em confirmar.</p>
-  <img src="virtual22.png">
-  <br><br>
+<p>25 - Deixe marcado a opção: utilitário de sistema padrão, Continuar;</p>
+<img src="software1.png">  <br><br>
 
-  <p>21 - Escolha a opção Debian GNU/Linux e logo após aparecerá a opção de login.</p>
-  <img src="virtual23.png">
-  <br><br>
+<p>26 - Instalar o carregador de inicialização GRUB: Sim, Continuar;</p><br><br>
 
-  <p>22 - Depois de feito o Login que foi definido, e só começar a usar o seu Linux Debian.</p>
-  <img src="virtual24.png">
-  <br><br>
+<p>27 - Seleciona o HD principal: /dev/sda ..., Continuar;</p>
+<img src="software2.png">  <br><br>
+
+<p>28 - Finaliza a instalação, Continuar.</p>
 
 
 
